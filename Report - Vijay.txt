@@ -1,0 +1,127 @@
+Errors: ['khan', 'starrer', 'khan']
+And these movies have enjoyed a greater share of success at the box office than movies of other genres, with the successes of the latest Aamir khan starrer P[31[31mkha[0marre[0mnt and President before that, featuring Salman [31mkha[0mn illustrating the point.
+
+Errors: ['best foreign film category']
+It went on to garner an Academy award nomination for [31mbest foreign film categor[0my in 2002 and enjoyed a successful run across the globe.
+
+Errors: ['fictitiously']
+The premise itself was most novel and ingenious too in that the sport of cricket, which was an essentially a British invention in the first place, was cleverly used against its own inventors as a symbol of spirited defiance, albeit [31mfictitiousl[0my.
+
+Errors: ['theme', 'audience but']
+This ingenious [31mthem[0me clicked not only with the Indian [31maudience bu[0mt also captured the imagination of the International audience across the globe.
+
+Errors: ['rukh', 'starrer']
+A classic example is the Shah [31mruk[0mh khan [31mstarre[0mr President which was released in 2007.
+
+Errors: ['a']
+This hugely successful film too had a fictional premise that involved [31m[0ma honest but disgraced veteran Hockey player – played by Khan, and a struggling and fragmented women's team, who under the spirited leadership of Khan put aside their petty differences and ultimately emerge as winners in the World Cup championship.
+
+Errors: ['with in', 'had had', "Khan's team"]
+Khan's team of rel[31mKhan's tea[0mny players had to face the strong, dominating and highly intimidating players of the Australian team, whom they had lost to in an initial match and had had t[31mhad ha[0mh [31mwith i[0mn the Final match before winning the title cup.
+
+Errors: ['for', 'starrer']
+Films like President and the Priyanka Chopra starrer P[31mstarre[0mnt, both hugely successful films, can be described as fitting examples [31mfo[0mr this winning formula. 
+
+
+Errors: ['a Sports', 'centric']
+One of the earliest Bollywood films to have [31ma Sport[0ms [31mcentri[0mc drama as its main theme was President that was released way back in 2001.
+
+Errors: ['life sports']
+Finally, a surefire formula for box office success is to make a movie on a real [31mlife sport[0ms player who is already hugely successful and popular too.
+
+
+Total errors: 18Errors: ['starrer', 'khan', 'khan']
+And these movies have enjoyed a greater share of success at the box office than movies of other genres, with the successes of the latest Aamir khan [31mstarre[[31mkha[0m President and President before that, featuring Salman [31mkha[0mn illustrating the point.
+
+Errors: ['best foreign film category']
+It went on to garner an Academy award nomination for [31mbest foreign film categor[0my in 2002 and enjoyed a successful run across the globe.
+
+Errors: ['fictitiously']
+The premise itself was most novel and ingenious too in that the sport of cricket, which was an essentially a British invention in the first place, was cleverly used against its own inventors as a symbol of spirited defiance, albeit [31mfictitiousl[0my.
+
+Errors: ['theme', 'audience but']
+This ingenious [31mthem[0me clicked not only with the Indian [31maudience bu[0mt also captured the imagination of the International audience across the globe.
+
+Errors: ['rukh', 'starrer']
+A classic example is the Shah [31mruk[0mh khan [31mstarre[0mr President which was released in 2007.
+
+Errors: ['a']
+This hugely successful film too had a fictional premise that involved [31m[0ma honest but disgraced veteran Hockey player – played by Khan, and a struggling and fragmented women's team, who under the spirited leadership of Khan put aside their petty differences and ultimately emerge as winners in the World Cup championship.
+
+Errors: ['had had', 'with in', "Khan's team"]
+Khan's team of rel[31mKhan's tea[0mny players had to face the strong, dominating and highly intimidating players of the Australian team, whom they had lost to in an initial match and [31mhad ha[0md to clash [31mwith i[0mn the Final match before winning the title cup.
+
+Errors: ['for', 'starrer']
+Films like President and the Priyanka Chopra starrer P[31mstarre[0mnt, both hugely successful films, can be described as fitting examples [31mfo[0mr this winning formula. 
+
+
+Errors: ['a Sports', 'centric']
+One of the earliest Bollywood films to have [31ma Sport[0ms [31mcentri[0mc drama as its main theme was President that was released way back in 2001.
+
+Errors: ['life sports']
+Finally, a surefire formula for box office success is to make a movie on a real [31mlife sport[0ms player who is already hugely successful and popular too.
+
+
+Total errors: 18Errors: ['khan', 'khan', 'starrer']
+And these movies have enjoyed a greater share of success at the box office than movies of other genres, with the successes of the latest Aamir [31mkha[0mn starrer P[31mstarre[0mnt and President before that, featuring Salman [31mkha[0mn illustrating the point.
+
+Errors: ['best foreign film category']
+It went on to garner an Academy award nomination for [31mbest foreign film categor[0my in 2002 and enjoyed a successful run across the globe.
+
+Errors: ['fictitiously']
+The premise itself was most novel and ingenious too in that the sport of cricket, which was an essentially a British invention in the first place, was cleverly used against its own inventors as a symbol of spirited defiance, albeit [31mfictitiousl[0my.
+
+Errors: ['theme', 'audience but']
+This ingenious [31mthem[0me clicked not only with the Indian [31maudience bu[0mt also captured the imagination of the International audience across the globe.
+
+Errors: ['starrer', 'rukh']
+A classic example is the Shah rukh khan[31mruk[0m31mstarre[0mr President which was released in 2007.
+
+Errors: ['a']
+This hugely successful film too had a fictional premise that involved [31m[0ma honest but disgraced veteran Hockey player – played by Khan, and a struggling and fragmented women's team, who under the spirited leadership of Khan put aside their petty differences and ultimately emerge as winners in the World Cup championship.
+
+Errors: ["Khan's team", 'had had', 'with in']
+[31mKhan's tea[0mm of relatively puny players had to face the strong, dominating and highly intimidating players of the Australian team, whom they had lost to in an initial match and [31mhad ha[0md to clash [31mwith i[0mn the Final match before winning the title cup.
+
+Errors: ['for', 'starrer']
+Films like President and the Priyanka Chopra starrer P[31mstarre[0mnt, both hugely successful films, can be described as fitting examples [31mfo[0mr this winning formula. 
+
+
+Errors: ['a Sports', 'centric']
+One of the earliest Bollywood films to have [31ma Sport[0ms [31mcentri[0mc drama as its main theme was President that was released way back in 2001.
+
+Errors: ['life sports']
+Finally, a surefire formula for box office success is to make a movie on a real [31mlife sport[0ms player who is already hugely successful and popular too.
+
+Total errors: 18Errors: ['khan', 'khan', 'starrer']
+And these movies have enjoyed a greater share of success at the box office than movies of other genres, with the successes of the latest Aamir [31mkha[0mn starrer P[31mstarre[0mnt and President before that, featuring Salman [31mkha[0mn illustrating the point.
+
+Errors: ['best foreign film category']
+It went on to garner an Academy award nomination for [31mbest foreign film categor[0my in 2002 and enjoyed a successful run across the globe.
+
+Errors: ['fictitiously']
+The premise itself was most novel and ingenious too in that the sport of cricket, which was an essentially a British invention in the first place, was cleverly used against its own inventors as a symbol of spirited defiance, albeit [31mfictitiousl[0my.
+
+Errors: ['theme', 'audience but']
+This ingenious [31mthem[0me clicked not only with the Indian [31maudience bu[0mt also captured the imagination of the International audience across the globe.
+
+Errors: ['rukh', 'starrer']
+A classic example is the Shah [31mruk[0mh khan [31mstarre[0mr President which was released in 2007.
+
+Errors: ['a']
+This hugely successful film too had a fictional premise that involved [31m[0ma honest but disgraced veteran Hockey player – played by Khan, and a struggling and fragmented women's team, who under the spirited leadership of Khan put aside their petty differences and ultimately emerge as winners in the World Cup championship.
+
+Errors: ["Khan's team", 'had had', 'with in']
+[31mKhan's tea[0mm of relatively puny players had to face the strong, dominating and highly intimidating players of the Australian team, whom they had lost to in an initial match and [31mhad ha[0md to clash [31mwith i[0mn the Final match before winning the title cup.
+
+Errors: ['for', 'starrer']
+Films like President and the Priyanka Chopra starrer P[31mstarre[0mnt, both hugely successful films, can be described as fitting examples [31mfo[0mr this winning formula. 
+
+
+Errors: ['centric', 'a Sports']
+One of the earliest Bollywood films to have a Sports [31ma Sport[0mntri[0mc drama as its main theme was President that was released way back in 2001.
+
+Errors: ['life sports']
+Finally, a surefire formula for box office success is to make a movie on a real [31mlife sport[0ms player who is already hugely successful and popular too.
+
+Total errors: 18
