@@ -1,4 +1,4 @@
-#H1 Grammar Checking tool
+# Grammar Checking tool
 
 This tool uses freely available API's (GingerAPI and LanguageTool) and prints a summary of combined grammatical errors within a given text file. 
 
